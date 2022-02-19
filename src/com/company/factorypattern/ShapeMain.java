@@ -1,7 +1,5 @@
 package com.company.factorypattern;
 
-import com.company.factorypattern.shape.ShapeFactory;
-
 public class ShapeMain {
     public static void main(String[] args) {
         ShapeFactory factory = new ShapeFactory();

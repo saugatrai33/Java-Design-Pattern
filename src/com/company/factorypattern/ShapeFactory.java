@@ -1,4 +1,6 @@
-package com.company.factorypattern.shape;
+package com.company.factorypattern;
+
+import com.company.factorypattern.shape.*;
 
 public class ShapeFactory {
     public Shape getShape(String shape) {
