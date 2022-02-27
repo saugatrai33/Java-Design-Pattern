@@ -1,6 +1,6 @@
-package com.company.structural.player;
+package com.company.structural.adapterpattern.player;
 
-import com.company.structural.AdvanceMediaPlayer;
+import com.company.structural.adapterpattern.AdvanceMediaPlayer;
 
 public class Mp4Player implements AdvanceMediaPlayer {
     @Override

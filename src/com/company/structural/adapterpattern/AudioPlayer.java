@@ -1,4 +1,4 @@
-package com.company.structural;
+package com.company.structural.adapterpattern;
 
 public class AudioPlayer implements MediaPlayer {
     private MediaAdapter mediaAdapter;

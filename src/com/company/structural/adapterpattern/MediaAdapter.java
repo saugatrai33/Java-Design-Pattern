@@ -1,7 +1,7 @@
-package com.company.structural;
+package com.company.structural.adapterpattern;
 
-import com.company.structural.player.Mp4Player;
-import com.company.structural.player.VlcPlayer;
+import com.company.structural.adapterpattern.player.Mp4Player;
+import com.company.structural.adapterpattern.player.VlcPlayer;
 
 public class MediaAdapter implements MediaPlayer {
     private AdvanceMediaPlayer advanceMediaPlayer;
