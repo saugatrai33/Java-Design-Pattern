@@ -16,5 +16,6 @@ public class Broker {
         for (Order order : orders) {
             order.execute();
         }
+        orders.clear();
     }
 }
